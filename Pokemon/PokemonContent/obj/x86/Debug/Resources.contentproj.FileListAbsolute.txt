@@ -1,0 +1,3 @@
+C:\Users\Jason\Documents\Programming\Projects\C#\Games\Pokemon\Pokemon\PokemonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jpang08\Dropbox\PokemonOld\Pokemon\PokemonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jpang08\Dropbox\Programming\C#\PokemonOld\Pokemon\PokemonContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Brendan_Walking.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!--  -->
+    <SubTexture name="Down_0" x="0" y="0" height="42" width="28"/>
+    <SubTexture name="Down_1" x="28" y="0" height="42" width="28"/>
+    <SubTexture name="Down_2" x="56" y="0" height="42" width="28"/>
+    <SubTexture name="Down_3" x="84" y="0" height="42" width="28"/>
+    <SubTexture name="Left_0" x="112" y="0" height="42" width="28"/>
+    <SubTexture name="Left_1" x="140" y="0" height="42" width="28"/>
+    <SubTexture name="Left_2" x="168" y="0" height="42" width="28"/>
+    <SubTexture name="Left_3" x="196" y="0" height="42" width="28"/>
+    <SubTexture name="Right_0" x="224" y="0" height="42" width="28"/>
+    <SubTexture name="Right_1" x="252" y="0" height="42" width="28"/>
+    <SubTexture name="Right_2" x="280" y="0" height="42" width="28"/>
+    <SubTexture name="Right_3" x="308" y="0" height="42" width="28"/>
+    <SubTexture name="Up_0" x="336" y="0" height="42" width="28"/>
+    <SubTexture name="Up_1" x="364" y="0" height="42" width="28"/>
+    <SubTexture name="Up_2" x="392" y="0" height="42" width="28"/>
+    <SubTexture name="Up_3" x="420" y="0" height="42" width="28"/>
+</TextureAtlas>
